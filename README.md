@@ -5,6 +5,7 @@ Android-Native
 
 In this repository below are the samples projects:
 
+
 1)SplashScreen
 
 To show the logo scrren as first screen in android app
@@ -20,3 +21,7 @@ Implement Google map , and shown user curret location in map
 4) Android Graph
 
 Shown the different graph types for android with the help of aChartEngine Libray
+
+5) Flash Light
+
+Simple Flash Light ON - OFF with sound of clicking on & off on Button
